@@ -1,0 +1,32 @@
+.profile{
+    height: 600px;
+    width: auto;
+    display: flex;
+    margin-top: 30px;
+    justify-content: center;
+    background: rgb(238,174,202);
+    background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(148,187,233,1) 100%);
+}
+.text{
+    display: flex;
+    justify-content: center;
+    color: blue;
+}
+.para{
+    font-size: 30px;
+    display: flex;
+    justify-content: center;
+    font-style: oblique;
+    color: brown;
+}
+.Contact{
+  height: 200px;
+  width: auto;
+  display: flex;
+  justify-content: center;
+
+  font-size: 40px;
+  background: rgb(131,58,180);
+background: linear-gradient(90deg, rgba(131,58,180,1) 0%, rgba(253,29,29,1) 50%, rgba(252,176,69,1) 100%);
+}
+
